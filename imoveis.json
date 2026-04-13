@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Casa top em Betim",
+        "type": "Casa",
+        "neighborhood": "Centro",
+        "city": "Betim",
+        "bedrooms": 3,
+        "parkingSpots": 2,
+        "area": 120,
+        "price": 350000,
+        "tag": "Destaque",
+        "modalidade": "Compra",
+        "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg"
+    }
+]
